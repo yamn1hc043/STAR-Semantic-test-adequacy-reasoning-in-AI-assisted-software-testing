@@ -73,4 +73,4 @@ Requires a Vertex AI / Google Cloud credential configured in your environment.
 ## Authors
 
 **VIT Vellore**
-JK Aarif Mohammed · D Chinmay · V Mohammed Saiyaan Anser
+JK Aarif Mohammed · D Chinmay
